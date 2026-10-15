@@ -5,7 +5,7 @@ var accountBalance = 1000.50;
 
 
 // changing the value of accountName
-accountName = "Jane Smith";
+accountName = "Jane";
 
 // changing the value of accountBalance
 accountBalance += 500; // adding 500 to the existing balance
@@ -18,7 +18,7 @@ console.table ({
   accountName,
   accountBalance,
   address
-}); 
+});        
 
 
 /* not to use var for variable declaration in modern JavaScript, as it has function scope and can lead to unexpected behavior. Use let or const instead. */ 
