@@ -1,17 +1,17 @@
 const accountId = 221212;
-let accountName = "John Doe";
+let accountName = "utsav poudel";
 var accountBalance = 1000.50;
- address = "123 Main St, Anytown, USA"; 
+ address = "kapilvastu municipality 10 , bikuli kapilvastu"; 
 
 
 // changing the value of accountName
-accountName = "Jane";
+accountName = "Manish";
 
 // changing the value of accountBalance
 accountBalance += 500; // adding 500 to the existing balance
 
 // changing the value of address
-address = "456 Elm St, Othertown, USA"; 
+address = "Pokhara Nepal"; 
 
 console.table ({
   accountId,
